@@ -1,2 +1,1 @@
-echo "merci charles pour ce cours";
-
+<?php echo "hello world";?>
